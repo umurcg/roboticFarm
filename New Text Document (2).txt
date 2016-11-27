@@ -1,0 +1,29 @@
+Merhaba Hocam,
+Konuştuğumuz konuları özetliyecek basit bir liste hazırladım.
+
+Haftaya kadar basit dizaynlar yapıllacak.
+Ölçüler: W=1.5m D=1m H= toprakla gantry arası 1m
+Motorların başlangıç noktalarını anlaması için limit switch kullanılacak. (Projede encoder kullanılıyor bunun için)
+Led sistemi için bir araştırma yapılacak. (Dalga boyu, ışık şiddeti vb...)
+Sıcaklık için bir sistem araştırması yapılacak. Koyulacak ortamın ölçümü yapılarak buna göre ayarlanmalı. 
+Köklerin uzaması için ne kadar mesafe gerekiyor? Bunun için bitki türlerini incelemek gerekiyor.
+Toprak ağırlığı hesaplanıcak.
+Üst tarafta ledler olucağı için skrew driveın yükselmesine bir çözüm.
+Ip camera için bir alternatif araştırması. (Raspberry pi ile bi webcam olabilir)
+Sıcaklığı ve ısıyı yansıtacak bir tarafı aluminyum bir folyo olan strafor.
+Su deposu kullanılacak.
+Sizin bulduğunuz motorlar için sürücü bakılacak.
+Elektronik aygıtların nemden korunması için bir case tasarlanıcak.
+
+Araştırılacaklar:
+
+Kök, su , sıcaklık limiti.
+
+
+Soil:
+Well-drained.
+Diaper can be used.
+
+Led:
+Grow lights
+

@@ -3,8 +3,8 @@ Adaylar:
 *Brokoli   65 gün
 *Carrot   70 gün
 Karnıbahar   80 gün
-*Pazı   50 gün
-*Kara lahana   40 gün
+Pazı   50 gün
+Kara lahana   40 gün
 Hıyar 60 gün
 Tomato 85 gün
 Lahana 50 gün 

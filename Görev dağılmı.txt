@@ -1,0 +1,28 @@
+Dizayn Fikirleri - Ali
+Fiyat - Umur
+Botanikle ilgili araştırma - Seçilen bitkiler - Umur 
+Boundry condition araştırmaları - Umur, Ali
+Elektronik araştırması - Umur
+Toprak Araştırması - Ali
+Akışkan ve stress analizleri - Umur - Ali
+Led araştırması - Umur
+Başlığın yukarı çıkamadığı için alternatif dizayn - Ali
+
+Belirlememiz gereken şeyleer:
+
+Toprak derinliği
+Toprak tipi (Killi)
+Su tankı hacmi
+Gübre
+Led sayısı ve tipi
+Exhust büyülüğü
+2 Küçük fan
+Arduino Raspbery seçimi ve software platform seçimi belirlenecek
+Perde
+
+
+2. Aşama
+Kamera bul
+
+
+Ortam sıcaklık ölçümü

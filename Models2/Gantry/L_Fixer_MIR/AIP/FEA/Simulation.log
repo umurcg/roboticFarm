@@ -1,0 +1,9 @@
+﻿Study Connection_1_Stress_Analysis started: 12/13/2016, 6:52:51 PM
+Number of configurations: 1
+Default mesh: 2839 elements, 5135 nodes
+Solution time 1.4s
+Convergence rate: 27.9%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  3.0611  on element 2702 finished: 12/13/2016, 6:52:55 PM
+Total time 0:00:04
+

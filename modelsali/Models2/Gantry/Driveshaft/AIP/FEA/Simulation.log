@@ -1,0 +1,15 @@
+﻿Study Static Analysis:1 started: 05/01/2017, 04:21:13
+Number of configurations: 1
+Default mesh: 26172 elements, 46963 nodes
+Study        Worst Jacobian ratio :  1.70787  on element 7123 finished: 05/01/2017, 04:21:15
+Total time 0:00:02
+
+Study Static Analysis:1 started: 05/01/2017, 04:22:04
+Number of configurations: 1
+Default mesh: 26172 elements, 46963 nodes
+Solution time 7.5s
+Convergence rate: 5.2%
+Problem converged 
+Study Static Analysis:1 finished: 05/01/2017, 04:22:12
+Total time 0:00:08
+
